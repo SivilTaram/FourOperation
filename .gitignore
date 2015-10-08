@@ -38,6 +38,8 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+*.ncrunchsolution
+*.v2.ncrunchsolution
 *_i.c
 *_p.c
 *_i.h
@@ -81,6 +83,8 @@ ipch/
 
 # TFS 2012 Local Workspace
 $tf/
+
+$_NCrunch_FourOperationForm/
 
 # Guidance Automation Toolkit
 *.gpState
